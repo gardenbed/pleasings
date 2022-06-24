@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/gardenbed/charm v0.1.3
 	github.com/mitchellh/cli v1.1.4
-	github.com/stretchr/testify v1.7.4
+	github.com/stretchr/testify v1.7.5
 )
 
 require (

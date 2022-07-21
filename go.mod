@@ -1,6 +1,6 @@
 module github.com/gardenbed/pleasings
 
-go 1.17
+go 1.18
 
 require (
 	github.com/gardenbed/charm v0.1.3

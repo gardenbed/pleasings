@@ -20,7 +20,7 @@ const (
   `
 )
 
-// Command is the cli.Command implementation for update command.
+// Command is the cli.Command implementation for setup command.
 type Command struct {
 	ui ui.UI
 }

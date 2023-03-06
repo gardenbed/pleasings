@@ -1,11 +1,11 @@
 module github.com/gardenbed/pleasings
 
-go 1.19
+go 1.20
 
 require (
 	github.com/gardenbed/charm v0.1.3
 	github.com/mitchellh/cli v1.1.5
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 )
 
 require (

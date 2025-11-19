@@ -1,6 +1,6 @@
 module github.com/gardenbed/pleasings
 
-go 1.23.3
+go 1.24.0
 
 require (
 	github.com/gardenbed/charm v0.2.0
@@ -29,7 +29,7 @@ require (
 	github.com/posener/complete v1.1.1 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
-	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a // indirect
-	golang.org/x/sys v0.0.0-20190412213103-97732733099d // indirect
+	golang.org/x/crypto v0.45.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
